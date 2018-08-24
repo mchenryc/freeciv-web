@@ -2,8 +2,6 @@
 # vendor[TAB]codename[TAB]script
 Ubuntu	bionic	deb.sh
 Ubuntu	xenial	deb.sh
-BSD	something	welcome
 Ubuntu	trusty	deb.sh
-Ubuntu	EOLartful	deb.sh
+Ubuntu	artful	deb.sh
 Debian	stretch	deb.sh
-
